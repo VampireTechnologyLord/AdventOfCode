@@ -2,7 +2,7 @@ import fs from "fs";
 
 const lines = []
 
-fs.readFileSync("./03-1/input.txt", "utf8").split("\n").forEach((line) => {
+fs.readFileSync("./03-2/input.txt", "utf8").split("\n").forEach((line) => {
     lines.push(line)  
 })
 
