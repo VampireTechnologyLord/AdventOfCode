@@ -1,3 +1,6 @@
 {
-    "type": "module"
+    "type": "module",
+    "dependencies": {
+        "linear-solve": "^1.2.1"
+    }
 }
